@@ -1,0 +1,175 @@
+MS|multiple sclerosis|MS|33|34|HISTORY|she was diagnosed with relapsing MS and has optic neuritis and numbness. Vitals stable.
+MS|morphine sulfate|MS|40|41|MEDICATIONS|History notes that pain controlled with MS tablets, monitor for sedation and constipation. Plan discussed with family.
+RA|right atrium|RA|20|21|IMAGING|Overnight, enlarged RA with elevated right heart pressures on echocardiogram. Plan discussed with family.
+RA|right atrium|RA|20|21||Overnight, enlarged RA with elevated right heart pressures on echocardiogram.
+PT|physical therapy|PT|24|25|PLAN|On exam today, continue PT exercises for the knee replacement rehab.
+MS|multiple sclerosis|MS|14|15|HISTORY|At follow-up, MS with worsening gait and leg weakness, neurology consulted. Follow up in two weeks.
+PT|prothrombin time|PT|23|24||At follow-up, elevated PT and INR concerning for liver disease, recheck coagulation labs. Follow up in two weeks.
+PT|prothrombin time|PT|44|45||History notes that coagulation studies with PT and PTT were within normal limits. No acute distress.
+PT|physical therapy|PT|23|24|PLAN|referred to outpatient PT for range of motion and balance. Vitals stable.
+RA|right atrium|RA|34|35|IMAGING|Overnight, catheter tip is in the RA on the chest x-ray. Plan discussed with family.
+RA|rheumatoid arthritis|RA|58|59|PAST MEDICAL HISTORY|Per the chart, positive rheumatoid factor consistent with RA, joint pain in wrists. No acute distress.
+RA|rheumatoid arthritis|RA|15|16||On exam today, RA flare with morning stiffness, rheumatology to adjust medications. Vitals stable.
+MS|multiple sclerosis|MS|80|81|HISTORY|History notes that MRI of the brain shows demyelinating lesions consistent with MS flare. Will continue to monitor.
+PT|physical therapy|PT|23|24||referred to outpatient PT for range of motion and balance. Will continue to monitor.
+RA|right atrium|RA|38|39|IMAGING|On exam today, catheter tip is in the RA on the chest x-ray. Vitals stable.
+MS|mitral stenosis|MS|39|40|CARDIAC EXAM|At follow-up, cardiology evaluated the MS and valve area on echo is reduced. Vitals stable.
+RA|rheumatoid arthritis|RA|38|39|PAST MEDICAL HISTORY|The team reports that long history of RA with joint swelling in both hands, on methotrexate. Will continue to monitor.
+MS|multiple sclerosis|MS|48|49||On exam today, she was diagnosed with relapsing MS and has optic neuritis and numbness.
+RA|right atrium|RA|24|25|IMAGING|On exam today, enlarged RA with elevated right heart pressures on echocardiogram.
+RA|rheumatoid arthritis|RA|46|47||she takes methotrexate and prednisone for her RA. No acute distress.
+PT|prothrombin time|PT|32|33|LABORATORY DATA|The team reports that labs show PT 18 seconds and INR 2.5 on warfarin. No acute distress.
+RA|rheumatoid arthritis|RA|15|16|PAST MEDICAL HISTORY|On exam today, RA flare with morning stiffness, rheumatology to adjust medications. Will continue to monitor.
+MS|mitral stenosis|MS|40|41||Overnight, rheumatic heart disease with MS, murmur heard at the apex. No acute distress.
+MS|multiple sclerosis|MS|37|38|HISTORY|Per the chart, neurology follows her MS and she takes interferon for it. Follow up in two weeks.
+RA|rheumatoid arthritis|RA|14|15|PAST MEDICAL HISTORY|At follow-up, RA flare with morning stiffness, rheumatology to adjust medications. Vitals stable.
+PT|physical therapy|PT|22|23|PLAN|The team reports that PT evaluated mobility and recommends a walker at discharge. Will continue to monitor.
+PT|prothrombin time|PT|14|15||At follow-up, PT prolonged at 22 seconds, hold warfarin dose tonight. No acute distress.
+MS|morphine sulfate|MS|36|37|MEDICATIONS|Per the chart, pain controlled with MS tablets, monitor for sedation and constipation. Vitals stable.
+MS|multiple sclerosis|MS|22|23|HISTORY|The team reports that MS with worsening gait and leg weakness, neurology consulted. Will continue to monitor.
+PT|prothrombin time|PT|24|25||On exam today, elevated PT and INR concerning for liver disease, recheck coagulation labs. Vitals stable.
+PT|prothrombin time|PT|11|12|LABORATORY DATA|Overnight, PT prolonged at 22 seconds, hold warfarin dose tonight. No acute distress.
+PT|physical therapy|PT|14|15|PLAN|At follow-up, PT evaluated mobility and recommends a walker at discharge. Vitals stable.
+MS|morphine sulfate|MS|25|26|MEDICATIONS|home medications include MS extended release for chronic pain.
+MS|mitral stenosis|MS|40|41||Overnight, rheumatic heart disease with MS, murmur heard at the apex. Vitals stable.
+MS|multiple sclerosis|MS|33|34|HISTORY|she was diagnosed with relapsing MS and has optic neuritis and numbness. Vitals stable.
+RA|right atrium|RA|32|33|IMAGING|Overnight, echo shows a dilated RA and tricuspid regurgitation. Vitals stable.
+MS|morphine sulfate|MS|32|33||Overnight, pain controlled with MS tablets, monitor for sedation and constipation. Vitals stable.
+MS|multiple sclerosis|MS|44|45|HISTORY|The team reports that neurology follows her MS and she takes interferon for it. Plan discussed with family.
+PT|physical therapy|PT|15|16|PLAN|Per the chart, PT evaluated mobility and recommends a walker at discharge. Plan discussed with family.
+RA|right atrium|RA|40|41|IMAGING|History notes that thrombus seen in the RA on transesophageal echo. Follow up in two weeks.
+PT|physical therapy|PT|29|30|PLAN|At follow-up, she will start PT twice weekly for strengthening and gait training. Follow up in two weeks.
+MS|multiple sclerosis|MS|72|73|HISTORY|Overnight, MRI of the brain shows demyelinating lesions consistent with MS flare.
+PT|physical therapy|PT|24|25|PLAN|On exam today, continue PT exercises for the knee replacement rehab.
+RA|rheumatoid arthritis|RA|46|47||she takes methotrexate and prednisone for her RA. Vitals stable.
+MS|mitral stenosis|MS|43|44||On exam today, echocardiogram shows severe MS with a thickened valve and enlarged left atrium. Plan discussed with family.
+MS|morphine sulfate|MS|36|37|MEDICATIONS|On exam today, pain controlled with MS tablets, monitor for sedation and constipation. No acute distress.
+PT|physical therapy|PT|37|38||At follow-up, referred to outpatient PT for range of motion and balance. Plan discussed with family.
+PT|physical therapy|PT|30|31|PLAN|Per the chart, she will start PT twice weekly for strengthening and gait training. Plan discussed with family.
+PT|physical therapy|PT|0|1|PLAN|PT evaluated mobility and recommends a walker at discharge. Vitals stable.
+PT|physical therapy|PT|37|38||The team reports that she will start PT twice weekly for strengthening and gait training. No acute distress.
+MS|multiple sclerosis|MS|41|42||History notes that neurology follows her MS and she takes interferon for it. Plan discussed with family.
+MS|multiple sclerosis|MS|47|48|HISTORY|At follow-up, she was diagnosed with relapsing MS and has optic neuritis and numbness. Vitals stable.
+MS|morphine sulfate|MS|21|22|MEDICATIONS|Per the chart, given MS 4 mg IV every 4 hours as needed for pain. Vitals stable.
+MS|multiple sclerosis|MS|76|77|HISTORY|On exam today, MRI of the brain shows demyelinating lesions consistent with MS flare. Vitals stable.
+PT|prothrombin time|PT|39|40|LABORATORY DATA|At follow-up, coagulation studies with PT and PTT were within normal limits. Follow up in two weeks.
+MS|mitral stenosis|MS|28|29|CARDIAC EXAM|The team reports that known MS with atrial fibrillation and shortness of breath on exertion. Vitals stable.
+RA|right atrium|RA|42|43||History notes that catheter tip is in the RA on the chest x-ray. Will continue to monitor.
+RA|right atrium|RA|43|44|IMAGING|The team reports that thrombus seen in the RA on transesophageal echo. Follow up in two weeks.
+PT|physical therapy|PT|15|16||she will start PT twice weekly for strengthening and gait training. Plan discussed with family.
+RA|rheumatoid arthritis|RA|35|36|PAST MEDICAL HISTORY|History notes that long history of RA with joint swelling in both hands, on methotrexate. Will continue to monitor.
+RA|rheumatoid arthritis|RA|65|66|PAST MEDICAL HISTORY|The team reports that positive rheumatoid factor consistent with RA, joint pain in wrists. Will continue to monitor.
+MS|morphine sulfate|MS|25|26||home medications include MS extended release for chronic pain.
+PT|physical therapy|PT|42|43|PLAN|History notes that referred to outpatient PT for range of motion and balance. Follow up in two weeks.
+RA|rheumatoid arthritis|RA|65|66|PAST MEDICAL HISTORY|The team reports that positive rheumatoid factor consistent with RA, joint pain in wrists. Plan discussed with family.
+MS|multiple sclerosis|MS|37|38||Per the chart, neurology follows her MS and she takes interferon for it. Follow up in two weeks.
+MS|morphine sulfate|MS|28|29|MEDICATIONS|The team reports that given MS 4 mg IV every 4 hours as needed for pain.
+MS|morphine sulfate|MS|26|27|MEDICATIONS|On exam today, started on MS for severe pain after surgery, dose 2 mg IV. Plan discussed with family.
+PT|prothrombin time|PT|23|24|LABORATORY DATA|At follow-up, elevated PT and INR concerning for liver disease, recheck coagulation labs. Plan discussed with family.
+MS|multiple sclerosis|MS|15|16|HISTORY|On exam today, MS with worsening gait and leg weakness, neurology consulted. Vitals stable.
+PT|physical therapy|PT|29|30|PLAN|At follow-up, she will start PT twice weekly for strengthening and gait training. Will continue to monitor.
+RA|rheumatoid arthritis|RA|57|58|PAST MEDICAL HISTORY|At follow-up, positive rheumatoid factor consistent with RA, joint pain in wrists. No acute distress.
+MS|mitral stenosis|MS|28|29|CARDIAC EXAM|The team reports that known MS with atrial fibrillation and shortness of breath on exertion. Follow up in two weeks.
+MS|morphine sulfate|MS|21|22||pain controlled with MS tablets, monitor for sedation and constipation. Plan discussed with family.
+PT|prothrombin time|PT|40|41|LABORATORY DATA|On exam today, coagulation studies with PT and PTT were within normal limits. Plan discussed with family.
+MS|morphine sulfate|MS|6|7|MEDICATIONS|given MS 4 mg IV every 4 hours as needed for pain. Vitals stable.
+PT|physical therapy|PT|24|25||Per the chart, continue PT exercises for the knee replacement rehab. No acute distress.
+RA|right atrium|RA|20|21||Overnight, enlarged RA with elevated right heart pressures on echocardiogram. Will continue to monitor.
+PT|physical therapy|PT|23|24||At follow-up, continue PT exercises for the knee replacement rehab. Plan discussed with family.
+PT|prothrombin time|PT|10|11|LABORATORY DATA|labs show PT 18 seconds and INR 2.5 on warfarin. Plan discussed with family.
+MS|mitral stenosis|MS|40|41|CARDIAC EXAM|Per the chart, cardiology evaluated the MS and valve area on echo is reduced.
+PT|physical therapy|PT|30|31|PLAN|Per the chart, she will start PT twice weekly for strengthening and gait training.
+RA|rheumatoid arthritis|RA|58|59||On exam today, positive rheumatoid factor consistent with RA, joint pain in wrists. Follow up in two weeks.
+MS|multiple sclerosis|MS|19|20|HISTORY|History notes that MS with worsening gait and leg weakness, neurology consulted.
+MS|mitral stenosis|MS|47|48|CARDIAC EXAM|The team reports that cardiology evaluated the MS and valve area on echo is reduced. Will continue to monitor.
+RA|rheumatoid arthritis|RA|27|28||Overnight, long history of RA with joint swelling in both hands, on methotrexate. Will continue to monitor.
+RA|rheumatoid arthritis|RA|22|23|PAST MEDICAL HISTORY|The team reports that RA flare with morning stiffness, rheumatology to adjust medications. No acute distress.
+PT|prothrombin time|PT|11|12|LABORATORY DATA|Overnight, PT prolonged at 22 seconds, hold warfarin dose tonight. Follow up in two weeks.
+RA|right atrium|RA|38|39|IMAGING|On exam today, catheter tip is in the RA on the chest x-ray. Follow up in two weeks.
+RA|rheumatoid arthritis|RA|16|17|PAST MEDICAL HISTORY|long history of RA with joint swelling in both hands, on methotrexate.
+MS|mitral stenosis|MS|6|7|CARDIAC EXAM|known MS with atrial fibrillation and shortness of breath on exertion. Vitals stable.
+RA|right atrium|RA|43|44||The team reports that thrombus seen in the RA on transesophageal echo. Follow up in two weeks.
+RA|rheumatoid arthritis|RA|15|16||On exam today, RA flare with morning stiffness, rheumatology to adjust medications. Will continue to monitor.
+MS|morphine sulfate|MS|36|37||Overnight, home medications include MS extended release for chronic pain. Will continue to monitor.
+PT|physical therapy|PT|45|46||The team reports that referred to outpatient PT for range of motion and balance. Plan discussed with family.
+MS|mitral stenosis|MS|47|48|CARDIAC EXAM|The team reports that cardiology evaluated the MS and valve area on echo is reduced.
+RA|right atrium|RA|43|44|IMAGING|The team reports that thrombus seen in the RA on transesophageal echo. Follow up in two weeks.
+RA|right atrium|RA|40|41|IMAGING|History notes that thrombus seen in the RA on transesophageal echo.
+MS|multiple sclerosis|MS|47|48|HISTORY|At follow-up, she was diagnosed with relapsing MS and has optic neuritis and numbness. Plan discussed with family.
+MS|mitral stenosis|MS|40|41|CARDIAC EXAM|On exam today, cardiology evaluated the MS and valve area on echo is reduced. Follow up in two weeks.
+RA|rheumatoid arthritis|RA|11|12||Overnight, RA flare with morning stiffness, rheumatology to adjust medications.
+MS|mitral stenosis|MS|44|45|CARDIAC EXAM|Per the chart, rheumatic heart disease with MS, murmur heard at the apex.
+MS|mitral stenosis|MS|28|29|CARDIAC EXAM|The team reports that known MS with atrial fibrillation and shortness of breath on exertion. Follow up in two weeks.
+RA|rheumatoid arthritis|RA|38|39|PAST MEDICAL HISTORY|The team reports that long history of RA with joint swelling in both hands, on methotrexate. Plan discussed with family.
+MS|mitral stenosis|MS|17|18|CARDIAC EXAM|Overnight, known MS with atrial fibrillation and shortness of breath on exertion. Follow up in two weeks.
+PT|prothrombin time|PT|10|11|LABORATORY DATA|labs show PT 18 seconds and INR 2.5 on warfarin.
+RA|right atrium|RA|40|41||History notes that echo shows a dilated RA and tricuspid regurgitation. No acute distress.
+RA|rheumatoid arthritis|RA|57|58||Overnight, she takes methotrexate and prednisone for her RA.
+MS|multiple sclerosis|MS|52|53||History notes that she was diagnosed with relapsing MS and has optic neuritis and numbness. Follow up in two weeks.
+MS|multiple sclerosis|MS|47|48||At follow-up, she was diagnosed with relapsing MS and has optic neuritis and numbness. Will continue to monitor.
+MS|mitral stenosis|MS|36|37||Overnight, cardiology evaluated the MS and valve area on echo is reduced. Follow up in two weeks.
+MS|multiple sclerosis|MS|19|20|HISTORY|History notes that MS with worsening gait and leg weakness, neurology consulted.
+RA|right atrium|RA|38|39|IMAGING|On exam today, catheter tip is in the RA on the chest x-ray. Vitals stable.
+MS|multiple sclerosis|MS|48|49|HISTORY|On exam today, she was diagnosed with relapsing MS and has optic neuritis and numbness. Vitals stable.
+MS|morphine sulfate|MS|22|23||Overnight, started on MS for severe pain after surgery, dose 2 mg IV. Plan discussed with family.
+PT|prothrombin time|PT|24|25|LABORATORY DATA|On exam today, elevated PT and INR concerning for liver disease, recheck coagulation labs. Will continue to monitor.
+PT|physical therapy|PT|15|16|PLAN|Per the chart, PT evaluated mobility and recommends a walker at discharge.
+RA|rheumatoid arthritis|RA|57|58||At follow-up, positive rheumatoid factor consistent with RA, joint pain in wrists. Plan discussed with family.
+PT|prothrombin time|PT|44|45|LABORATORY DATA|History notes that coagulation studies with PT and PTT were within normal limits. Follow up in two weeks.
+MS|morphine sulfate|MS|21|22|MEDICATIONS|On exam today, given MS 4 mg IV every 4 hours as needed for pain. No acute distress.
+MS|mitral stenosis|MS|6|7|CARDIAC EXAM|known MS with atrial fibrillation and shortness of breath on exertion. Follow up in two weeks.
+RA|right atrium|RA|28|29|IMAGING|History notes that enlarged RA with elevated right heart pressures on echocardiogram. No acute distress.
+RA|right atrium|RA|28|29||History notes that enlarged RA with elevated right heart pressures on echocardiogram. Plan discussed with family.
+RA|rheumatoid arthritis|RA|15|16||Per the chart, RA flare with morning stiffness, rheumatology to adjust medications. Vitals stable.
+RA|rheumatoid arthritis|RA|27|28||Overnight, long history of RA with joint swelling in both hands, on methotrexate. Vitals stable.
+MS|morphine sulfate|MS|25|26||home medications include MS extended release for chronic pain.
+RA|right atrium|RA|40|41||History notes that thrombus seen in the RA on transesophageal echo. Will continue to monitor.
+MS|multiple sclerosis|MS|36|37|HISTORY|At follow-up, neurology follows her MS and she takes interferon for it.
+MS|mitral stenosis|MS|43|44|CARDIAC EXAM|Per the chart, echocardiogram shows severe MS with a thickened valve and enlarged left atrium. Follow up in two weeks.
+MS|mitral stenosis|MS|39|40|CARDIAC EXAM|At follow-up, cardiology evaluated the MS and valve area on echo is reduced. Will continue to monitor.
+MS|mitral stenosis|MS|29|30||rheumatic heart disease with MS, murmur heard at the apex. Follow up in two weeks.
+PT|prothrombin time|PT|23|24|LABORATORY DATA|At follow-up, elevated PT and INR concerning for liver disease, recheck coagulation labs. Follow up in two weeks.
+PT|prothrombin time|PT|44|45||History notes that coagulation studies with PT and PTT were within normal limits. Plan discussed with family.
+PT|physical therapy|PT|31|32|PLAN|The team reports that continue PT exercises for the knee replacement rehab.
+MS|morphine sulfate|MS|40|41|MEDICATIONS|Per the chart, home medications include MS extended release for chronic pain. No acute distress.
+PT|prothrombin time|PT|40|41|LABORATORY DATA|On exam today, coagulation studies with PT and PTT were within normal limits. Will continue to monitor.
+MS|morphine sulfate|MS|26|27|MEDICATIONS|On exam today, started on MS for severe pain after surgery, dose 2 mg IV.
+MS|morphine sulfate|MS|40|41||Per the chart, home medications include MS extended release for chronic pain. Follow up in two weeks.
+PT|physical therapy|PT|23|24|PLAN|referred to outpatient PT for range of motion and balance. Plan discussed with family.
+MS|morphine sulfate|MS|20|21||At follow-up, given MS 4 mg IV every 4 hours as needed for pain.
+PT|physical therapy|PT|11|12|PLAN|Overnight, PT evaluated mobility and recommends a walker at discharge. No acute distress.
+PT|prothrombin time|PT|31|32|LABORATORY DATA|The team reports that elevated PT and INR concerning for liver disease, recheck coagulation labs. Plan discussed with family.
+PT|prothrombin time|PT|15|16||On exam today, PT prolonged at 22 seconds, hold warfarin dose tonight.
+MS|mitral stenosis|MS|43|44||At follow-up, rheumatic heart disease with MS, murmur heard at the apex. Will continue to monitor.
+MS|mitral stenosis|MS|21|22|CARDIAC EXAM|Per the chart, known MS with atrial fibrillation and shortness of breath on exertion. Plan discussed with family.
+RA|right atrium|RA|9|10||enlarged RA with elevated right heart pressures on echocardiogram. Will continue to monitor.
+RA|right atrium|RA|40|41||History notes that thrombus seen in the RA on transesophageal echo. Will continue to monitor.
+PT|prothrombin time|PT|47|48||The team reports that coagulation studies with PT and PTT were within normal limits. No acute distress.
+RA|right atrium|RA|43|44|IMAGING|The team reports that echo shows a dilated RA and tricuspid regurgitation.
+MS|mitral stenosis|MS|40|41|CARDIAC EXAM|On exam today, cardiology evaluated the MS and valve area on echo is reduced. Plan discussed with family.
+PT|prothrombin time|PT|40|41||Per the chart, coagulation studies with PT and PTT were within normal limits. No acute distress.
+PT|prothrombin time|PT|25|26||coagulation studies with PT and PTT were within normal limits. Follow up in two weeks.
+RA|right atrium|RA|36|37|IMAGING|Per the chart, echo shows a dilated RA and tricuspid regurgitation.
+MS|multiple sclerosis|MS|41|42|HISTORY|History notes that neurology follows her MS and she takes interferon for it.
+MS|morphine sulfate|MS|17|18|MEDICATIONS|Overnight, given MS 4 mg IV every 4 hours as needed for pain. No acute distress.
+RA|rheumatoid arthritis|RA|61|62||Per the chart, she takes methotrexate and prednisone for her RA. No acute distress.
+RA|rheumatoid arthritis|RA|15|16||On exam today, RA flare with morning stiffness, rheumatology to adjust medications.
+PT|prothrombin time|PT|23|24|LABORATORY DATA|At follow-up, elevated PT and INR concerning for liver disease, recheck coagulation labs. Will continue to monitor.
+MS|multiple sclerosis|MS|76|77||On exam today, MRI of the brain shows demyelinating lesions consistent with MS flare. Vitals stable.
+RA|right atrium|RA|21|22|IMAGING|thrombus seen in the RA on transesophageal echo. Vitals stable.
+PT|physical therapy|PT|38|39||Per the chart, referred to outpatient PT for range of motion and balance.
+MS|mitral stenosis|MS|43|44||Per the chart, echocardiogram shows severe MS with a thickened valve and enlarged left atrium. Will continue to monitor.
+PT|physical therapy|PT|23|24||referred to outpatient PT for range of motion and balance. Plan discussed with family.
+RA|rheumatoid arthritis|RA|61|62|PAST MEDICAL HISTORY|On exam today, she takes methotrexate and prednisone for her RA. No acute distress.
+PT|prothrombin time|PT|29|30|LABORATORY DATA|History notes that labs show PT 18 seconds and INR 2.5 on warfarin. Will continue to monitor.
+MS|morphine sulfate|MS|36|37|MEDICATIONS|Per the chart, pain controlled with MS tablets, monitor for sedation and constipation. Will continue to monitor.
+MS|morphine sulfate|MS|6|7|MEDICATIONS|given MS 4 mg IV every 4 hours as needed for pain.
+MS|mitral stenosis|MS|50|51||The team reports that echocardiogram shows severe MS with a thickened valve and enlarged left atrium.
+RA|right atrium|RA|40|41|IMAGING|History notes that echo shows a dilated RA and tricuspid regurgitation. Follow up in two weeks.
+MS|morphine sulfate|MS|25|26||home medications include MS extended release for chronic pain. Plan discussed with family.
+MS|multiple sclerosis|MS|44|45||The team reports that neurology follows her MS and she takes interferon for it. Vitals stable.
+MS|mitral stenosis|MS|50|51|CARDIAC EXAM|The team reports that echocardiogram shows severe MS with a thickened valve and enlarged left atrium. Will continue to monitor.
+MS|morphine sulfate|MS|36|37||On exam today, pain controlled with MS tablets, monitor for sedation and constipation. Will continue to monitor.
+MS|multiple sclerosis|MS|11|12|HISTORY|Overnight, MS with worsening gait and leg weakness, neurology consulted. Vitals stable.
+MS|morphine sulfate|MS|36|37|MEDICATIONS|Overnight, home medications include MS extended release for chronic pain. No acute distress.
+PT|prothrombin time|PT|29|30||History notes that labs show PT 18 seconds and INR 2.5 on warfarin. Will continue to monitor.
